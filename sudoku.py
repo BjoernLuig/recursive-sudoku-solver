@@ -64,7 +64,7 @@ def solve(field): # solve a sudoku
     return(field)
 
 # start sudoku solver and enter sudoku field
-print('SUDOKO SOLVER')
+print('SUDOKU SOLVER')
 loop = True
 while loop:
     text = input('enter sudoku line by line (l) or solve test sudoku (t)? ')
