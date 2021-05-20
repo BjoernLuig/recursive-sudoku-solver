@@ -3,7 +3,7 @@ A simple recursive sudoku solver in python.
 
 Examle:
 
-    SUDOKO SOLVER
+    SUDOKU SOLVER
     enter sudoku line by line (l) or solve test sudoku (t)? l
     0,space = empty
     you can skip empty fields at the end)
