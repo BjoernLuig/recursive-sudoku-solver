@@ -145,12 +145,3 @@ def steuerung():
     print("beendet")
 
 steuerung()
-
-
-
-
-
-
-
-
-
