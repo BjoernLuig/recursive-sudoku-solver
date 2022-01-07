@@ -6,7 +6,7 @@ Examle:
     SUDOKU SOLVER
     enter sudoku line by line (l) or solve test sudoku (t)? l
     0,space = empty
-    you can skip empty fields at the end)
+    you can skip empty fields at the end
     enter numbers of the 1th line: 00107029
     enter numbers of the 2th line: 04009081
     enter numbers of the 3th line: 06903004
@@ -17,17 +17,17 @@ Examle:
     enter numbers of the 8th line: 600510907
     enter numbers of the 9th line: 400300021
     -------------------------
-    | 0 0 1 | 0 7 0 | 2 9 0 |
-    | 0 4 0 | 0 9 0 | 8 1 0 |
-    | 0 6 9 | 0 3 0 | 0 4 0 |
+    |     1 |   7   | 2 9   |
+    |   4   |   9   | 8 1   |
+    |   6 9 |   3   |   4   |
     -------------------------
-    | 8 5 0 | 0 0 0 | 1 0 9 |
-    | 0 2 0 | 0 0 6 | 0 7 0 |
-    | 0 7 6 | 0 0 1 | 0 0 0 |
+    | 8 5   |       | 1   9 |
+    |   2   |     6 |   7   |
+    |   7 6 |     1 |       |
     -------------------------
-    | 5 1 7 | 2 0 0 | 0 0 0 |
-    | 6 0 0 | 5 1 0 | 9 0 7 |
-    | 4 0 0 | 3 0 0 | 0 2 1 |
+    | 5 1 7 | 2     |       |
+    | 6     | 5 1   | 9   7 |
+    | 4     | 3     |   2 1 |
     -------------------------
     solving...(can take seconds or hours)
     -------------------------
